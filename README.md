@@ -19,3 +19,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Prerequisites
 
 - Make sure you have a C++ compiler installed on your machine.
+- https://github.com/E-Tejaswini/guessnum_interpe/assets/147268553/ded0755d-93fd-4222-b64b-3e9a03576aa2
+
